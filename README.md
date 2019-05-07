@@ -13,8 +13,8 @@ Git Commands I always forget
 - opportunity to clean up commits
 
 `git reset [commit hash]`
-- reset branch to commit
-- DROPS COMMITS!
+- reset commit
+- unstages those changes
 
 `git revert [commit hash]`
 - adds another commit undoing changes

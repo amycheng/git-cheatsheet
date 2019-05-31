@@ -12,7 +12,7 @@ Git Commands I always forget
 - pull in master and place commits from your branch to the top of the master commits
 - opportunity to clean up commits
 
-`git reset [commit hash]`
+`git reset [commit hash] --soft`
 - reset commit
 - unstages those changes
 
